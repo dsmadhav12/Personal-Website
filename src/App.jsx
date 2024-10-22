@@ -1,12 +1,13 @@
-import styles from './App.module.css'
+import styles from './App.module.css';
+import { Navigationbar } from './components/Navigationbar/navigationbar';
 
 function App() {
 
   return (
     <div className={styles.App}>
-      Madhav's Website!
+      <Navigationbar/>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
