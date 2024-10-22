@@ -1,0 +1,6 @@
+@import "./variables.css";
+.APP{
+    background-color: var(--color-background);
+    width: 100%;
+    height: 100%;
+}
