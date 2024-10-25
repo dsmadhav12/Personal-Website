@@ -1,4 +1,4 @@
-import styles from "./Navigationbar.module.css";
+import styles from "./navigationbar.module.css";
 import React, {useState, useEffect} from "react";
 import {getImageUrl} from "../../utils";
 export const Navigationbar =() => {
