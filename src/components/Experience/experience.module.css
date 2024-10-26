@@ -102,4 +102,10 @@
     width: 100%;
     gap: 9px;
   }
+  .historyItem h3{
+    text-align: center;
+  }
+  .historyItem p {
+    text-align: center;
+  }
 }
