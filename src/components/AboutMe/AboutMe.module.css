@@ -51,7 +51,7 @@
     z-index: 1;
     position: relative;
     right: -5%;
-    /*
+    
     animation-name: bouncing;
     animation-duration: 3s;
     animation-iteration-count: infinite;
@@ -67,7 +67,7 @@
     100%{
         transform: translate(0, -0px);
     }
-        */
+        
 }
 
 .topBlur{
