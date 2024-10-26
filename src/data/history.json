@@ -1,0 +1,11 @@
+[
+    
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "Perceptron Labs",
+      "startDate": "Sept 2024",
+      "endDate": "Present",
+      "experiences": [" Developed and optimized API function calls to parse and analyze sports data to be integrated for a machine learning algorithm."],
+      "imageSrc": "perceptronLogo.png"
+    }
+]
