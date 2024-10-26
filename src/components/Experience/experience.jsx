@@ -9,7 +9,7 @@ export const Experience = () => {
 
     <section className={styles.container} id="experience">
       <h2 className={styles.title}>
-        Skills & =Experience 
+        Skills & Experience 
         </h2>
       <div className={styles.content}>
 
