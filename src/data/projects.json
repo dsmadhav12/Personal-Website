@@ -12,6 +12,13 @@
         "description": "Temp",
         "skills": ["Temp"],
         "source": "https://github.com/dsmadhav12/Personal-Website"
+    },
+    {
+        "title": "Temp",
+        "imageSrc": "laptop.png",
+        "description": "Temp",
+        "skills": ["Temp"],
+        "source": "https://github.com/dsmadhav12/Personal-Website"
     }
     
    

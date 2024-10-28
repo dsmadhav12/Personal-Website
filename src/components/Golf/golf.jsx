@@ -22,7 +22,7 @@ export const Golf =() => {
                         76 at 1757 Golf Club from the Blacks
                     </p2>
                     <div className={styles.link}>
-                        <a href={"https://github.com/dsmadhav12/Personal-Website"} className={styles.link}>
+                        <a href={"https://www.1757golfclub.com"} className={styles.link}>
                         Course Info
                         </a>
                     </div>
