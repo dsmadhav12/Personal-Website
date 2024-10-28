@@ -69,8 +69,11 @@
     }
 
   }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 700px) {
    .links a{
-        font-size: 18px;
+        font-size: 22px;
+   }
+   .links img{
+    max-width: 80%;
    }
 }
