@@ -20,7 +20,7 @@ export const Navigationbar =() => {
     }, []);
     return ( 
     <nav className={styles.navigationbar}>
-        <a className={styles.title} href="/">Home</a>
+        <a className={styles.title} href="/"></a>
         <div className={styles.menu}>
             {!fullScreen && (
             <img className={styles.menuButton} src={
