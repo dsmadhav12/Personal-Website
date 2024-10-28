@@ -4,8 +4,8 @@ import styles from "./golf.module.css";
 import { getImageUrl } from "../../utils";
 export const Golf =() => {
     return (
-        <section className={styles.container} id="golf">
-        <h2 className={styles.title}>Golf</h2>
+        <section className={styles.container}>
+        <h2 className={styles.title} id="golf">Golf</h2>
         <div className={styles.content}>
             <ul className={styles.golfItems}>
                 <img
