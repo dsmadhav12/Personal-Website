@@ -1,10 +1,10 @@
 [
     {
-        "title": "Coming Soon",
+        "title": "HandicapMatch",
         "imageSrc": "laptop.png",
-        "description": "Future Project",
-        "skills": ["TBD"],
-        "source": "https://github.com/dsmadhav12/Personal-Website"
+        "description": "Creates a even playing field between players of varying skill levels",
+        "skills": ["Java"],
+        "source": "https://github.com/dsmadhav12/HandicapMatch"
     },
     {
         "title": "Coming Soon",
