@@ -7,9 +7,9 @@
         "source": "https://github.com/dsmadhav12/HandicapMatch"
     },
     {
-        "title": "orthogonal-diagonalization-calculator",
+        "title": "Orthogonal-Diagonalization-Calculator",
         "imageSrc": "laptop.png",
-        "description": "Takes a matrix A and provides Q and D where Q is orthogonally diagonalizable",
+        "description": "Takes a matrix A and provides Q and D where Q is orthogonal",
         "skills": ["Python"],
         "source": "https://github.com/dsmadhav12/orthogonal-diagonalization-calculator"
     },
