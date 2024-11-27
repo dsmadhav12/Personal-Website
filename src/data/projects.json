@@ -7,11 +7,11 @@
         "source": "https://github.com/dsmadhav12/HandicapMatch"
     },
     {
-        "title": "Coming Soon",
+        "title": "orthogonal-diagonalization-calculator",
         "imageSrc": "laptop.png",
-        "description": "Future Project",
-        "skills": ["TBD"],
-        "source": "https://github.com/dsmadhav12/Personal-Website"
+        "description": "Takes a matrix A and provides Q and D where Q is orthogonally diagonalizable",
+        "skills": ["Python"],
+        "source": "https://github.com/dsmadhav12/orthogonal-diagonalization-calculator"
     },
     {
         "title": "Coming Soon",
