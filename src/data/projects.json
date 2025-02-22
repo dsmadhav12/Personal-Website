@@ -14,14 +14,17 @@
         "source": "https://github.com/dsmadhav12/orthogonal-diagonalization-calculator"
     },
     {
-        "title": "Coming Soon",
+        "title": "Personal Website",
         "imageSrc": "laptop.png",
-        "description": "Future Project",
-        "skills": ["TBD"],
+        "description": "Portfolio website that showcases my skills and interests",
+        "skills": ["React", "JavaScript", "HTML", "CSS"],
         "source": "https://github.com/dsmadhav12/Personal-Website"
+    },
+    {
+        "title": "NBA Statistics Predictor",
+        "imageSrc": "laptop.png",
+        "description": "Machine Learning project that utilized RandomForestRegressor to predict NBA players statistics",
+        "skills": ["Python", "Machine Learning"],
+        "source": "https://github.com/dsmadhav12/NBA-Player-Stat-Predictor"
     }
-    
-   
-
-    
 ]

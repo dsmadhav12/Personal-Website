@@ -14,7 +14,7 @@ export const AboutSection =() => {
                     />
                     <div>
                         <h3>About Me</h3>
-                        <p>I'm a 19-year-old student who graduated from Freedom High School in Loudoun County, Virginia. 
+                        <p>I'm a 20-year-old student who graduated from Freedom High School in Loudoun County, Virginia. 
                             I enjoy watching and playing sports, such as football, basketball, and golf. 
                             I also enjoy spending time with friends, family, and my dog.</p>
                     </div>
