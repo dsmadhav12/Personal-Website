@@ -1,5 +1,21 @@
 [
-    
+    {
+      "role": "Incoming Software Engineering Intern",
+      "organisation": "BMO Capital Markets",
+      "startDate": "June 2026",
+      "endDate": "Present",
+      "experiences": [" Working on low latency electronic infrastructure and execution systems for institutional markets."],
+      "imageSrc": "BMO.png"
+    },
+  
+    {
+      "role": "Machine Learning Research Intern",
+      "organisation": "UVA Link Lab",
+      "startDate": "May 2025",
+      "endDate": "Oct 2025",
+      "experiences": [" Built and refined an OpenCV/Python tool to deidentify EMS footage to train an EMS AI agent called CognitiveEMS.", "Created a Python script to convert outdated JSON annotations to a modern format allowing benchmarking."],
+      "imageSrc": "LinkLab.jpg"
+    },
     {
       "role": "Software Engineer Intern",
       "organisation": "Perceptron Labs",
@@ -7,5 +23,13 @@
       "endDate": "Present",
       "experiences": [" Developed and optimized API function calls to parse and analyze sports data to be integrated for a machine learning algorithm."],
       "imageSrc": "perceptronLogo.png"
+    },
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "Grounds",
+      "startDate": "May 2024",
+      "endDate": "Jan 2025",
+      "experiences": [" Created an app that allowed UVA first years to find rides to the major population hubs in Virginia."],
+      "imageSrc": "stealth.png"
     }
 ]

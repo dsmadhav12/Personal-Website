@@ -14,7 +14,7 @@ export const AboutSection =() => {
                     />
                     <div>
                         <h3>About Me</h3>
-                        <p>I'm a 20-year-old student who graduated from Freedom High School in Loudoun County, Virginia. 
+                        <p>I'm a 21-year-old student who graduated from the University of Virginia in May, 2026 with a degree in CS and a minor in Applied Math. This summer I am interning as a software engineer at the Bank of Montreal (BMO) Capital Markets. 
                             I enjoy watching and playing sports, such as football, basketball, and golf. 
                             I also enjoy spending time with friends, family, and my dog.</p>
                     </div>
@@ -26,8 +26,8 @@ export const AboutSection =() => {
                     />
                     <div>
                         <h3>Software Development</h3>
-                        <p>I'm a software engineer skilled in Java, Python, JavaScript, and more. 
-                            Currently, I'm interning at Perceptron Labs, while working on projetcs to improve my skills.</p>
+                        <p>I'm a software engineer skilled in Python, C++, Java, JavaScript, and more. 
+                            Currently, I'm interning working on various projects such as a poker solver to improve my skills.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
